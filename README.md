@@ -8,7 +8,7 @@ I Love is Code 🧑‍💻
 
 * 🌍  I'm based in Bangkok : Thailand
 * ✉️  You can contact me at [panat.madloh@gmail.com](mailto:panat.madloh@gmail.com)
-* 🧠  I'm learning ReactJS, JavaScript, Redux
+* 🧠  I'm learning JavaScript, ReactJS, Redux, ExpressJS, MongoDB
 * 🤝  I'm open to collaborating on Learning Programming Language New and Team Work
 
 <a href="https://www.github.com/DevChalaam" target="_blank" rel="noreferrer"><img
