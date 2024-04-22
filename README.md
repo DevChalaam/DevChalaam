@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Looking for a Job
 -----------------
 
-I Love is Code 🧑‍💻
+I Love is Coding 🧑‍💻
 
 * 🌍  I'm based in Bangkok : Thailand
 * ✉️  You can contact me at [panat.madloh@gmail.com](mailto:panat.madloh@gmail.com)
