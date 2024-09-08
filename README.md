@@ -8,8 +8,8 @@ I Love is Coding is Art and Can Change Life 👨‍💻⚛️💖✨
 
 * 🌍  I'm based in Bangkok : Thailand
 * ✉️  You can contact me at [panat.madloh@gmail.com](mailto:panat.madloh@gmail.com)
-* 🧠  I'm learning PHP, TypeScript
-* 🤝  I'm open to collaborating on Learning Programming Language New and Team Work
+* 🧠  I'm learning PHP
+* 🤝  I'm open to collaborating on Learning Programming Language New and Technology New
 
 <a href="https://www.github.com/DevChalaam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DevChalaam?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
