@@ -1,7 +1,7 @@
 Hi 👋 My name is PANAT MADLOH
 =============================
 
-Looking for a Job Full-Stack Developer
+Looking for a Job Font-End Developer
 --------------------------------------
 
 I Love is Coding is Art and Can Change Life 👨‍💻⚛️💖✨
