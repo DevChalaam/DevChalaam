@@ -35,6 +35,4 @@ src="https://img.shields.io/github/followers/DevChalaam?logo=github&style=for-th
 
 <a href="http://www.github.com/DevChalaam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevChalaam&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/DevChalaam"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevChalaam&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/DevChalaam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChalaam&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
