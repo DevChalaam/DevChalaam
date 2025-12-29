@@ -7,7 +7,7 @@ LOOKING FOR A JOB
 I'M LOVE PROGRAMMING AND CYBER SECURITY 💖
 
 * 🌍  I'm based in NONG CHOK | BANGKOK THAILAND
-* 🖥️  See my portfolio at [PORTFOLIO BY FUTURE SKILL](http://react-portfolio-futureskill.vercel.app/)
+* 🖥️  See my portfolio at [PROJECT CLASS BY FUTURE SKILL](http://react-portfolio-futureskill.vercel.app/)
 * ✉️  You can contact me at [panat.madloh@gmail.com](mailto:panat.madloh@gmail.com)
 * 🧠  I'm currently learning UX/UI DESIGNER
 * 👥  I'm looking to collaborate on TEAM WORK
